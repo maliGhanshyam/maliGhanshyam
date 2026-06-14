@@ -6,15 +6,15 @@
 
 <a href="https://git.io/typing-svg">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot" alt="Typing SVG"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&width=750&height=60&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+Material+UI+%7C+Tailwind+%7C+Docker+%7C+AWS+%7C+Jest+%7C+Git"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=60&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+Material+UI+%7C+Tailwind+%7C+Docker+%7C+AWS+%7C+Jest+%7C+Git"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=60&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+Material+UI+%7C+Tailwind+%7C+Docker+%7C+AWS+%7C+Jest+%7C+Git" alt="Typing SVG"/>
 </picture>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,tailwind,docker,aws,jest,git&perline=18&theme=light"/>
 
 <br/><br/>
 

@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=220&section=header&text=Ghanshyam%20Mali&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&descAlign=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=220&section=header&text=Ghanshyam%20Mali&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&descAlign=50&descColor=FFFFFF&animation=twinkling"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot" alt="Typing SVG"/>
+</picture>
+</a>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light" alt="Skill icons"/>
+</picture>
 
 <br/><br/>
 
@@ -17,7 +27,6 @@
 [![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 
 </div>
----
 
 ## 🚀 About Me
 
@@ -150,18 +159,6 @@ Full Stack Developer with **2+ years** of experience shipping **multi-tenant Saa
 | 🔄 **Data Sync** | Scheduled Node.js jobs syncing full Pokédex into PostgreSQL |
 | 🔍 **Search UI** | Debounced queries with reusable Material UI list & card components |
 | 🚀 **Deployment** | Render with CI/CD, PostgreSQL persistence & env-based secrets |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maliGhanshyam&theme=default&hide_border=true&hide=stars,issues,prs,contribs&bg_color=F0F6FC&title_color=0F4C81&text_color=2D3034&icon_color=FF6F61" alt="GitHub Stats"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=maliGhanshyam&theme=default&hide_border=true&background=F0F6FC&stroke=C3D2E1&ring=0F4C81&fire=FF6F61&currStreakLabel=0F4C81" alt="GitHub Streak"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliGhanshyam&theme=default&hide_border=true&layout=compact&bg_color=F0F6FC&title_color=0F4C81&text_color=2D3034&icon_color=FF6F61" alt="Top Languages"/>
-
-</div>
 
 ---
 

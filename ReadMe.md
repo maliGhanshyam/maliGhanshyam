@@ -14,11 +14,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light" alt="Skill icons"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light"/>
 
 <br/><br/>
 
@@ -27,6 +23,7 @@
 [![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 
 </div>
+---
 
 ## 🚀 About Me
 

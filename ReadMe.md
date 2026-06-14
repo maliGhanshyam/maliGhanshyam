@@ -12,10 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
 [![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=maliGhanshyam&color=0F4C81&style=for-the-badge&label=Profile+Views)
-
 </div>
 
 ---

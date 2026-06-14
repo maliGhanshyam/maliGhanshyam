@@ -1,18 +1,175 @@
-# 💫 About Me:
-Full-stack Developer (React.js, Next.js, Node.js) with 1.5 years of experience building scalable web applications using<br>JavaScript, TypeScript, Express.js, PostgreSQL, and MongoDB. Skilled in REST APIs, responsive UI development,<br>reusable component architecture, authentication/authorization, AWS (EC2/S3) deployment, and CI/CD pipelines.
+<div align="center">
 
+# 👋 Hi, I'm Ghanshyam Mali
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maliGhanshyam) 
+### Full Stack Developer · NestJS · Next.js · MongoDB · TypeScript
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maliGhanshyam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=maliGhanshyam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maliGhanshyam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Building multi-tenant SaaS & enterprise web apps — from schema design to production deployment.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
+[![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%208999764387-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918999764387)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=maliGhanshyam&color=0F4C81&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maliGhanshyam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```typescript
+const ghanshyam = {
+  role: "Full Stack Developer",
+  experience: "2+ years",
+  location: "India",
+  focus: [
+    "Multi-tenant SaaS architecture",
+    "REST API design & optimization",
+    "JWT auth, RBAC & tenant isolation",
+    "Production-ready CI/CD delivery",
+  ],
+  currently: "Building multi-tenant SaaS applications",
+  openTo: ["Full Stack roles", "Backend-heavy roles", "SaaS product teams"],
+};
+```
+
+Full Stack Developer with **2+ years** of experience shipping **multi-tenant SaaS** and enterprise web applications using **React.js**, **Next.js**, **NestJS**, **Node.js**, **PostgreSQL**, and **MongoDB**. I specialize in **REST API** design, **JWT authentication**, **RBAC**, **tenant isolation**, and **AWS (EC2/S3)** deployments — with hands-on work in **MongoDB indexing**, **API caching**, **Docker**, **CI/CD pipelines**, and automated testing.
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer · 2+ Years**
+
+| Impact | What I Deliver |
+|--------|----------------|
+| **3+ client orgs** | Multi-tenant SaaS with tenant-scoped data & role-based modules |
+| **5+ REST endpoints** | MongoDB compound indexes, aggregation & caching for faster reads |
+| **4+ E2E features** | Schema design → NestJS services → Next.js dashboards |
+| **Security-first** | JWT, RBAC, tenant isolation middleware & audit logging |
+| **Payment platform** | Full-stack modules with React, Next.js, Node.js, Express & PostgreSQL |
+| **Stripe integration** | Webhooks for **3+** event types with idempotent transaction updates |
+| **RBAC across 3 tiers** | Admin, merchant & operations — route guards + permission-based UI |
+| **8+ reusable components** | Custom hooks & utilities shared across payment workflows |
+| **Performance wins** | Lazy loading, React memoization, API caching & optimized SQL |
+| **CI/CD on AWS** | Docker & Jenkins pipelines across staging & production environments |
+| **Quality assurance** | Jest & React Testing Library for **5+** critical payment flows |
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Database**
+<br/>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**DevOps & Tools**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+**Core Strengths**
+<br/>
+
+`REST APIs` · `JWT Auth` · `RBAC` · `Tenant Isolation` · `MongoDB Indexing` · `API Caching` · `CI/CD Pipelines` · `Stripe Webhooks` · `React Hook Form` · `Zod/Yup Validation` · `Agile/Scrum`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Featured Project
+
+<div align="center">
+
+### 🎮 PokeDex Platform
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6F61?style=for-the-badge&logo=rocket&logoColor=white)](https://pokedex-nextjs.onrender.com)
+
+*Next.js · TypeScript · NestJS · PostgreSQL · Render · CI/CD*
+
+</div>
+
+| Feature | Details |
+|---------|---------|
+| 🔐 **Auth** | JWT with access & refresh token rotation |
+| 🔄 **Data Sync** | Scheduled Node.js jobs syncing full Pokédex into PostgreSQL |
+| 🔍 **Search UI** | Debounced queries with reusable Material UI list & card components |
+| 🚀 **Deployment** | Render with CI/CD, PostgreSQL persistence & env-based secrets |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maliGhanshyam&theme=default&hide_border=true&hide=stars,issues,prs,contribs&bg_color=F0F6FC&title_color=0F4C81&text_color=2D3034&icon_color=FF6F61" alt="GitHub Stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=maliGhanshyam&theme=default&hide_border=true&background=F0F6FC&stroke=C3D2E1&ring=0F4C81&fire=FF6F61&currStreakLabel=0F4C81" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliGhanshyam&theme=default&hide_border=true&layout=compact&bg_color=F0F6FC&title_color=0F4C81&text_color=2D3034&icon_color=FF6F61" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **Full Stack**, **Backend**, and **SaaS** opportunities where I can contribute to scalable, secure, production-grade systems.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
+[![Email Me](https://img.shields.io/badge/Email_Me-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFFFFF&animation=twinkling"/>
+
+</div>

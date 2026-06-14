@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1565A8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
 [![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 
@@ -164,7 +164,7 @@ I'm open to **Full Stack**, **Backend**, and **SaaS** opportunities where I can 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-1565A8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
 [![Email Me](https://img.shields.io/badge/Email_Me-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 

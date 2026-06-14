@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
 [![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%208999764387-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918999764387)
 
 <br/>
 
@@ -116,8 +115,17 @@ Full Stack Developer with **2+ years** of experience shipping **multi-tenant Saa
 
 **Core Strengths**
 <br/>
-
-`REST APIs` · `JWT Auth` · `RBAC` · `Tenant Isolation` · `MongoDB Indexing` · `API Caching` · `CI/CD Pipelines` · `Stripe Webhooks` · `React Hook Form` · `Zod/Yup Validation` · `Agile/Scrum`
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F4C81?style=flat-square&logo=fastapi&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-FF6F61?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-0F4C81?style=flat-square&logo=shield&logoColor=white)
+![Tenant Isolation](https://img.shields.io/badge/Tenant_Isolation-FF6F61?style=flat-square&logo=server&logoColor=white)
+![MongoDB Indexing](https://img.shields.io/badge/MongoDB_Indexing-0F4C81?style=flat-square&logo=mongodb&logoColor=white)
+![API Caching](https://img.shields.io/badge/API_Caching-FF6F61?style=flat-square&logo=redis&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-0F4C81?style=flat-square&logo=githubactions&logoColor=white)
+![Stripe Webhooks](https://img.shields.io/badge/Stripe_Webhooks-FF6F61?style=flat-square&logo=stripe&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0F4C81?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod/Yup Validation](https://img.shields.io/badge/Zod%2FYup_Validation-FF6F61?style=flat-square&logo=zod&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0F4C81?style=flat-square&logo=jira&logoColor=white)
 
 </td>
 </tr>

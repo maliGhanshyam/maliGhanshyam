@@ -1,19 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Ghanshyam Mali
-
-### Full Stack Developer · NestJS · Next.js · MongoDB · TypeScript
-
-*Building multi-tenant SaaS & enterprise web apps — from schema design to production deployment.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=220&section=header&text=Ghanshyam%20Mali&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&descAlign=50&animation=twinkling"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&multiline=true&width=750&height=80&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+Express.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redux+%7C+Material+UI+%7C+Tailwind;Docker+%7C+AWS+%7C+Jenkins+%7C+Jest+%7C+Git+%7C+Java+%7C+Spring+Boot)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light"/>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1565A8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
 [![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 
 </div>
-
 ---
 
 ## 🚀 About Me
@@ -168,7 +171,7 @@ I'm open to **Full Stack**, **Backend**, and **SaaS** opportunities where I can 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-1565A8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gm-portfolio-rp85.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyammali)
 [![Email Me](https://img.shields.io/badge/Email_Me-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 

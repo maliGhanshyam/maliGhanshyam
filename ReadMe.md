@@ -12,7 +12,7 @@
 </picture>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,java,spring,docker,aws,jenkins,jest,git&perline=18&theme=light"/>
 
@@ -23,7 +23,6 @@
 [![Email](https://img.shields.io/badge/Email-ghanshyams.mali@gmail.com-0F4C81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyams.mali@gmail.com)
 
 </div>
----
 
 ## 🚀 About Me
 
